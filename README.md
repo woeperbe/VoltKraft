@@ -1,2 +1,2 @@
 VoltKraft Power supply Controller
-Using ICPI protocol
+Using SCPI protocol
